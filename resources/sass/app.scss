@@ -1,0 +1,28 @@
+
+// Variables
+@import 'variables';
+
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import '~font-awesome/scss/font-awesome';
+
+
+.fs12{
+    font-size: 12px;
+}
+.circleBTNPlus{
+    border: 1px solid black;
+    border-radius: 5px 20px 5px;
+    padding: 2px;
+    color: white;
+    background-color: gold;
+}
+.circleBTNMinus{
+    border: 1px solid black;
+    border-radius: 20px 5px 20px;
+    padding: 2px;
+    color: white;
+    background-color: gold;
+}
